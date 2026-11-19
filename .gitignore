@@ -5,3 +5,4 @@ __pycache__/
 .env.*
 .adk/
 *.log
+docs_es/
